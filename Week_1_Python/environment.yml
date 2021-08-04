@@ -1,0 +1,4 @@
+name: w1_python
+channels:
+  - defaults
+prefix: /home/suppegjoek/miniconda3/envs/w1_python

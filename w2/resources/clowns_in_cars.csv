@@ -1,0 +1,9 @@
+type_clown,brand,model,num_of_doors,car_weight,num_clown
+Adult,Volkswagen,XL1,2,759kg,9
+Youth,Volkswagen,XL1,2,759kg,15
+Adult,Tesla,Performance,4,1844kg,13
+Youth,Tesla,Performance,4,1844kg,19
+Adult,Ford,Kuga,4,1769kg,15
+Youth,Ford,Kuga,4,1769kg,22
+Adult,Elbil_Norge,Buddy,2,719kg,7
+Youth,Elbil_Norge,Buddy,2,719kg,12
